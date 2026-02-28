@@ -1,0 +1,1072 @@
+{
+  "level": "A1",
+  "grammar": [
+    {
+      "title": "Bestimmter Artikel (der, die, das)",
+      "category": "Artikel",
+      "explanation": "The definite article (the) in German has three genders in the nominative case. You must learn each noun with its article because there are no simple rules for gender.",
+      "usage": "Use der for masculine nouns, die for feminine nouns, das for neuter nouns. The plural for all genders is die.",
+      "examples": [
+        {
+          "sentence": "Der Mann ist hier.",
+          "translation": "The man is here."
+        },
+        {
+          "sentence": "Die Frau ist schön.",
+          "translation": "The woman is beautiful."
+        },
+        {
+          "sentence": "Das Kind ist klein.",
+          "translation": "The child is small."
+        },
+        {
+          "sentence": "Die Kinder spielen.",
+          "translation": "The children are playing."
+        }
+      ],
+      "notes": [
+        "Always learn new nouns with their article (der, die, das).",
+        "The plural article is always 'die' regardless of gender."
+      ]
+    },
+    {
+      "title": "Unbestimmter Artikel (ein, eine, ein)",
+      "category": "Artikel",
+      "explanation": "The indefinite article (a/an) in German. It changes based on the gender of the noun.",
+      "usage": "Use ein for masculine and neuter nouns, eine for feminine nouns. There is no plural form; use 'kein' for negative or no article for positive.",
+      "examples": [
+        {
+          "sentence": "Das ist ein Hund.",
+          "translation": "That is a dog."
+        },
+        {
+          "sentence": "Sie hat eine Katze.",
+          "translation": "She has a cat."
+        },
+        {
+          "sentence": "Das ist ein Buch.",
+          "translation": "That is a book."
+        },
+        {
+          "sentence": "Ich habe keinen Hund.",
+          "translation": "I have no dog."
+        }
+      ],
+      "notes": [
+        "Masculine changes in accusative: einen (einen Hund).",
+        "Kein follows the same pattern as ein."
+      ]
+    },
+    {
+      "title": "Demonstrativartikel (dieser, diese, dieses)",
+      "category": "Artikel",
+      "explanation": "Demonstrative articles (this/that) point to specific things. They decline like the definite article.",
+      "usage": "dieser (masculine), diese (feminine), dieses (neuter) in nominative. In accusative, masculine becomes diesen.",
+      "examples": [
+        {
+          "sentence": "Dieser Mann ist mein Lehrer.",
+          "translation": "This man is my teacher."
+        },
+        {
+          "sentence": "Diese Frau ist meine Mutter.",
+          "translation": "This woman is my mother."
+        },
+        {
+          "sentence": "Dieses Kind ist klein.",
+          "translation": "This child is small."
+        },
+        {
+          "sentence": "Ich kaufe diesen Apfel.",
+          "translation": "I'm buying this apple."
+        }
+      ],
+      "notes": [
+        "Follows the same endings as der/die/das.",
+        "For plural: diese (these)."
+      ]
+    },
+    {
+      "title": "Accusative Case (den / einen / keinen)",
+      "category": "Cases",
+      "explanation": "The accusative case is used for direct objects (the thing directly affected by the action).",
+      "usage": "Only masculine nouns change in accusative: der → den, ein → einen, kein → keinen. Feminine, neuter, and plural stay the same.",
+      "examples": [
+        {
+          "sentence": "Der Hund beißt den Mann.",
+          "translation": "The dog bites the man."
+        },
+        {
+          "sentence": "Ich sehe einen Hund.",
+          "translation": "I see a dog."
+        },
+        {
+          "sentence": "Ich habe keinen Stift.",
+          "translation": "I don't have a pen."
+        },
+        {
+          "sentence": "Er trinkt die Milch.",
+          "translation": "He drinks the milk."
+        }
+      ],
+      "notes": [
+        "Ask 'Wen?' (whom?) to find the accusative object.",
+        "Only masculine changes in accusative."
+      ]
+    },
+    {
+      "title": "Dativ Endungen",
+      "category": "Cases",
+      "explanation": "Dative case endings for articles and adjectives. The dative is used for indirect objects and after certain prepositions.",
+      "usage": "Masculine/Neuter: dem/einem/keinem; Feminine: der/einer/keiner; Plural: den/-/keinen (nouns add -n in plural).",
+      "examples": [
+        {
+          "sentence": "Ich helfe dem Mann.",
+          "translation": "I help the man."
+        },
+        {
+          "sentence": "Wir danken der Frau.",
+          "translation": "We thank the woman."
+        },
+        {
+          "sentence": "Er gibt dem Kind einen Ball.",
+          "translation": "He gives the child a ball."
+        },
+        {
+          "sentence": "Sie fährt mit den Kindern.",
+          "translation": "She drives with the children."
+        }
+      ],
+      "notes": [
+        "Plural nouns add -n in dative (den Kindern, den Männern).",
+        "Dative answers 'Wem?' (to whom?)."
+      ]
+    },
+    {
+      "title": "Modal Verb 'können'",
+      "category": "Modal verbs",
+      "explanation": "'können' expresses ability (can, to be able to).",
+      "usage": "The modal verb is conjugated and takes position 2. The main verb goes to the end in infinitive form.",
+      "examples": [
+        {
+          "sentence": "Ich kann gut schwimmen.",
+          "translation": "I can swim well."
+        },
+        {
+          "sentence": "Kannst du mir helfen?",
+          "translation": "Can you help me?"
+        },
+        {
+          "sentence": "Wir können heute kommen.",
+          "translation": "We can come today."
+        }
+      ],
+      "notes": [
+        "Conjugation: ich kann, du kannst, er/sie/es kann, wir können, ihr könnt, sie/Sie können."
+      ]
+    },
+    {
+      "title": "Modal Verbs (möchten / können)",
+      "category": "Modal verbs",
+      "explanation": "Common modal verbs: möchten (would like) and können (can). They change the main verb to the end.",
+      "usage": "Subject + conjugated modal + (other elements) + infinitive at the end.",
+      "examples": [
+        {
+          "sentence": "Ich möchte ein Auto kaufen.",
+          "translation": "I would like to buy a car."
+        },
+        {
+          "sentence": "Er kann schnell fahren.",
+          "translation": "He can drive fast."
+        },
+        {
+          "sentence": "Möchtest du Kaffee trinken?",
+          "translation": "Would you like to drink coffee?"
+        }
+      ],
+      "notes": [
+        "Möchten is actually the subjunctive form of mögen but functions as a separate modal.",
+        "The infinitive always goes to the end."
+      ]
+    },
+    {
+      "title": "Modalverben im Präsens",
+      "category": "Modal verbs",
+      "explanation": "Modal verbs in present tense: können (can), müssen (must), dürfen (may), wollen (want), sollen (should), mögen (like).",
+      "usage": "Subject + conjugated modal verb + infinitive at the end of the sentence.",
+      "examples": [
+        {
+          "sentence": "Ich kann schwimmen.",
+          "translation": "I can swim."
+        },
+        {
+          "sentence": "Wir müssen arbeiten.",
+          "translation": "We have to work."
+        },
+        {
+          "sentence": "Darf ich mitkommen?",
+          "translation": "May I come along?"
+        },
+        {
+          "sentence": "Er will Deutsch lernen.",
+          "translation": "He wants to learn German."
+        }
+      ],
+      "notes": [
+        "The main verb (infinitive) is at the end of the sentence.",
+        "Modal verbs have irregular conjugations (ich kann, du kannst, etc.)."
+      ]
+    },
+    {
+      "title": "Modalverb + Infinitiv",
+      "category": "Modal verbs",
+      "explanation": "Construction with modal verb + infinitive: the modal verb is conjugated, and the infinitive stands at the end.",
+      "usage": "Subject + modal verb + (objects) + infinitive.",
+      "examples": [
+        {
+          "sentence": "Ich will Wasser trinken.",
+          "translation": "I want to drink water."
+        },
+        {
+          "sentence": "Man darf hier nicht rauchen.",
+          "translation": "You are not allowed to smoke here."
+        },
+        {
+          "sentence": "Soll ich das Fenster öffnen?",
+          "translation": "Should I open the window?"
+        }
+      ],
+      "notes": [
+        "This is the standard sentence structure with modal verbs."
+      ]
+    },
+    {
+      "title": "Negation (nicht / kein)",
+      "category": "Negation",
+      "explanation": "German has two main ways to negate: 'nicht' for verbs and adjectives, 'kein' for nouns.",
+      "usage": "Use 'nicht' to negate verbs, adjectives, or whole sentences. Use 'kein' before nouns (like 'no' in English).",
+      "examples": [
+        {
+          "sentence": "Ich arbeite nicht.",
+          "translation": "I do not work."
+        },
+        {
+          "sentence": "Das ist nicht gut.",
+          "translation": "That is not good."
+        },
+        {
+          "sentence": "Das ist kein Bus.",
+          "translation": "That is not a bus."
+        },
+        {
+          "sentence": "Ich habe keine Zeit.",
+          "translation": "I have no time."
+        }
+      ],
+      "notes": [
+        "Kein changes like ein: kein, keine, keinen, keinem.",
+        "Nicht usually goes at the end or before the word it negates."
+      ]
+    },
+    {
+      "title": "Negative Forms (kein / nicht)",
+      "category": "Negation",
+      "explanation": "Summary of how to use 'kein' and 'nicht' correctly.",
+      "usage": "kein + noun (negates the noun). nicht + verb/adjective (negates actions or qualities).",
+      "examples": [
+        {
+          "sentence": "Ich habe keinen Hund.",
+          "translation": "I have no dog."
+        },
+        {
+          "sentence": "Der Kaffee ist nicht gut.",
+          "translation": "The coffee is not good."
+        },
+        {
+          "sentence": "Sie kommt nicht.",
+          "translation": "She is not coming."
+        }
+      ],
+      "notes": [
+        "Kein is used for nouns without an article or with indefinite article.",
+        "Nicht negates everything else."
+      ]
+    },
+    {
+      "title": "sch oder ch",
+      "category": "Other",
+      "explanation": "Spelling rules for 'sch' and 'ch' in German. 'sch' is pronounced like 'sh' in English; 'ch' has two sounds (ich-Laut and ach-Laut).",
+      "usage": "sch is common at the beginning of words (Schule) or in combinations. ch appears in many positions.",
+      "examples": [
+        {
+          "sentence": "Mädchen",
+          "translation": "girl"
+        },
+        {
+          "sentence": "wachen",
+          "translation": "to wake"
+        },
+        {
+          "sentence": "glücklich",
+          "translation": "happy"
+        },
+        {
+          "sentence": "Schule",
+          "translation": "school"
+        }
+      ],
+      "notes": [
+        "After a, o, u: ch is pronounced hard (ach-Laut).",
+        "After e, i, ä, ö, ü, and consonants: ch is soft (ich-Laut)."
+      ]
+    },
+    {
+      "title": "Wegbeschreibung",
+      "category": "Other",
+      "explanation": "Vocabulary and phrases for giving and understanding directions.",
+      "usage": "Use imperative forms (gehen Sie, biegen Sie ab) and prepositions (geradeaus, links, rechts, um die Ecke).",
+      "examples": [
+        {
+          "sentence": "Gehen Sie geradeaus.",
+          "translation": "Go straight ahead."
+        },
+        {
+          "sentence": "Biegen Sie links ab.",
+          "translation": "Turn left."
+        },
+        {
+          "sentence": "Es ist um die Ecke.",
+          "translation": "It's around the corner."
+        }
+      ],
+      "notes": [
+        "Use 'Wie komme ich zu...?' to ask for directions."
+      ]
+    },
+    {
+      "title": "Bewegung mit von",
+      "category": "Other",
+      "explanation": "Using 'von' (from) to indicate movement away from a place. 'von' always takes the dative case.",
+      "usage": "von + dative (vom = von + dem).",
+      "examples": [
+        {
+          "sentence": "Die Mücke fliegt vom Arm auf die Lampe.",
+          "translation": "The mosquito flies from the arm onto the lamp."
+        },
+        {
+          "sentence": "Sie fliegt von der Lampe auf den Schirm.",
+          "translation": "It flies from the lamp onto the umbrella."
+        }
+      ],
+      "notes": [
+        "Contractions: von + dem = vom."
+      ]
+    },
+    {
+      "title": "schon / doch",
+      "category": "Other",
+      "explanation": "'schon' means 'already'. 'doch' is used to contradict a negative question or statement (like 'yes' in response to a negative).",
+      "usage": "schon: position varies. doch: usually stands alone as a one-word answer.",
+      "examples": [
+        {
+          "sentence": "Ich habe schon geduscht.",
+          "translation": "I have already showered."
+        },
+        {
+          "sentence": "Kommst du nicht? – Doch!",
+          "translation": "Aren't you coming? – Yes, I am!"
+        }
+      ],
+      "notes": [
+        "Doch is often used to correct a misunderstanding."
+      ]
+    },
+    {
+      "title": "Himmelsrichtungen",
+      "category": "Other",
+      "explanation": "Cardinal directions: Norden (north), Süden (south), Osten (east), Westen (west).",
+      "usage": "Used with prepositions: im Norden (in the north), nach Norden (to the north).",
+      "examples": [
+        {
+          "sentence": "Der Wind kommt aus dem Norden.",
+          "translation": "The wind comes from the north."
+        },
+        {
+          "sentence": "Wir fahren nach Süden.",
+          "translation": "We're driving south."
+        }
+      ],
+      "notes": [
+        "Use 'im' for location, 'nach' for direction."
+      ]
+    },
+    {
+      "title": "Perfekt (Present Perfect)",
+      "category": "Perfekt",
+      "explanation": "The perfect tense is used mainly in spoken German to talk about past events.",
+      "usage": "Subject + auxiliary verb (haben or sein) + Partizip II (past participle) at the end.",
+      "examples": [
+        {
+          "sentence": "Ich habe schon gekocht.",
+          "translation": "I have already cooked."
+        },
+        {
+          "sentence": "Er ist gestern geflogen.",
+          "translation": "He flew yesterday."
+        },
+        {
+          "sentence": "Wir haben die Garage aufgeschlossen.",
+          "translation": "We unlocked the garage."
+        }
+      ],
+      "notes": [
+        "Use 'sein' with verbs of movement or change of state.",
+        "Regular verbs add ge- + -t (gekocht).",
+        "Irregular verbs have specific forms (gefahren, geschrieben)."
+      ]
+    },
+    {
+      "title": "Separable Verbs in Perfekt",
+      "category": "Perfekt",
+      "explanation": "For separable verbs, the ge- prefix goes between the separable prefix and the stem in the past participle.",
+      "usage": "Prefix + ge + stem + t/en.",
+      "examples": [
+        {
+          "sentence": "Er ist abgeflogen.",
+          "translation": "He has departed (by plane)."
+        },
+        {
+          "sentence": "Sie hat ihn abgeholt.",
+          "translation": "She picked him up."
+        },
+        {
+          "sentence": "Ich habe eingekauft.",
+          "translation": "I have shopped."
+        }
+      ],
+      "notes": [
+        "abholen → abgeholt",
+        "einkaufen → eingekauft"
+      ]
+    },
+    {
+      "title": "Possessive Articles (Nominativ)",
+      "category": "Possessives",
+      "explanation": "Possessive articles show ownership. In nominative case, they agree with the gender of the noun they modify.",
+      "usage": "mein (my), dein (your), sein (his), ihr (her), unser (our), euer (your pl.), Ihr (your formal).",
+      "examples": [
+        {
+          "sentence": "Das ist mein Buch.",
+          "translation": "That is my book."
+        },
+        {
+          "sentence": "Ist das deine Tasche?",
+          "translation": "Is that your bag?"
+        },
+        {
+          "sentence": "Das ist unser Auto.",
+          "translation": "That is our car."
+        }
+      ],
+      "notes": [
+        "Add -e for feminine and plural: meine, deine, etc.",
+        "Neuter and masculine have no ending in nominative."
+      ]
+    },
+    {
+      "title": "Possessive Articles (Akkusativ)",
+      "category": "Possessives",
+      "explanation": "Possessive articles in accusative case. Only masculine singular adds -en.",
+      "usage": "meinen, deinen, seinen, ihren, unseren, euren, Ihren for masculine. Others stay the same as nominative.",
+      "examples": [
+        {
+          "sentence": "Ich sehe meinen Bruder.",
+          "translation": "I see my brother."
+        },
+        {
+          "sentence": "Sie hat ihre Tasche.",
+          "translation": "She has her bag."
+        },
+        {
+          "sentence": "Wir besuchen unsere Freunde.",
+          "translation": "We visit our friends."
+        }
+      ],
+      "notes": [
+        "Only masculine changes to -en: mein Bruder → meinen Bruder."
+      ]
+    },
+    {
+      "title": "Possessive Articles (Dativ)",
+      "category": "Possessives",
+      "explanation": "Possessive articles in dative case. Used for indirect objects and after dative prepositions.",
+      "usage": "meinem (m/n), meiner (f), meinen (pl); deinem, deiner, deinen; etc.",
+      "examples": [
+        {
+          "sentence": "Ich helfe meinem Freund.",
+          "translation": "I help my (male) friend."
+        },
+        {
+          "sentence": "Sie spricht mit ihrer Lehrerin.",
+          "translation": "She talks with her teacher."
+        },
+        {
+          "sentence": "Wir fahren mit unserem Auto.",
+          "translation": "We go with our car."
+        }
+      ],
+      "notes": [
+        "Dative answers 'Wem?' (to whom?)."
+      ]
+    },
+    {
+      "title": "Wechselpräpositionen",
+      "category": "Präpositionen",
+      "explanation": "Two-way prepositions can take either dative or accusative depending on meaning.",
+      "usage": "Dative for location (Wo? - where? no movement). Accusative for direction (Wohin? - where to? movement).",
+      "examples": [
+        {
+          "sentence": "Das Buch liegt auf dem Tisch.",
+          "translation": "The book is lying on the table. (location)"
+        },
+        {
+          "sentence": "Ich lege das Buch auf den Tisch.",
+          "translation": "I'm putting the book on the table. (direction)"
+        },
+        {
+          "sentence": "Ich bin in der Schule.",
+          "translation": "I am at school. (location)"
+        },
+        {
+          "sentence": "Ich gehe in die Schule.",
+          "translation": "I'm going to school. (direction)"
+        }
+      ],
+      "notes": [
+        "Common two-way prepositions: an, auf, hinter, in, neben, über, unter, vor, zwischen.",
+        "Contractions: an + dem = am, in + dem = im, in + das = ins."
+      ]
+    },
+    {
+      "title": "Präpositionen mit Dativ",
+      "category": "Präpositionen",
+      "explanation": "Prepositions that always take the dative case.",
+      "usage": "aus (from), bei (at), mit (with), nach (to/after), von (from), zu (to), seit (since).",
+      "examples": [
+        {
+          "sentence": "Ich komme aus Deutschland.",
+          "translation": "I come from Germany."
+        },
+        {
+          "sentence": "Wir sprechen mit unserer Lehrerin.",
+          "translation": "We speak with our teacher."
+        },
+        {
+          "sentence": "Ich fahre nach Berlin.",
+          "translation": "I'm travelling to Berlin."
+        },
+        {
+          "sentence": "Das Geschenk ist von meiner Mutter.",
+          "translation": "The present is from my mother."
+        }
+      ],
+      "notes": [
+        "Dative articles: dem (m/n), der (f), dem (n), den (pl)."
+      ]
+    },
+    {
+      "title": "Lokale Präpositionen mit Dativ",
+      "category": "Präpositionen",
+      "explanation": "Local prepositions that are often contracted with the dative article.",
+      "usage": "im (in + dem), am (an + dem), zum (zu + dem), zur (zu + der).",
+      "examples": [
+        {
+          "sentence": "im Büro",
+          "translation": "in the office"
+        },
+        {
+          "sentence": "am Fenster",
+          "translation": "at the window"
+        },
+        {
+          "sentence": "zum Arzt",
+          "translation": "to the doctor"
+        },
+        {
+          "sentence": "zur Apotheke",
+          "translation": "to the pharmacy"
+        }
+      ],
+      "notes": [
+        "These contractions are mandatory in standard German."
+      ]
+    },
+    {
+      "title": "Präpositionen mit Akkusativ",
+      "category": "Präpositionen",
+      "explanation": "Prepositions that always take the accusative case.",
+      "usage": "für (for), gegen (against), um (around/at), durch (through), bis (until), ohne (without).",
+      "examples": [
+        {
+          "sentence": "Ich kaufe Blumen für Monika.",
+          "translation": "I'm buying flowers for Monika."
+        },
+        {
+          "sentence": "Er fährt gegen einen Baum.",
+          "translation": "He drives into a tree."
+        },
+        {
+          "sentence": "Interessierst du dich für den neuen Film?",
+          "translation": "Are you interested in the new film?"
+        },
+        {
+          "sentence": "Ohne dich schaffe ich das nicht.",
+          "translation": "I can't do it without you."
+        }
+      ],
+      "notes": [
+        "Akkusativ articles: den (m), die (f), das (n), die (pl)."
+      ]
+    },
+    {
+      "title": "Personalpronomen (Nominativ)",
+      "category": "Pronomen",
+      "explanation": "Personal pronouns in the nominative case (subject of the sentence).",
+      "usage": "ich (I), du (you, informal), er (he), sie (she), es (it), wir (we), ihr (you pl. informal), Sie (you formal), sie (they).",
+      "examples": [
+        {
+          "sentence": "Ich lerne Deutsch.",
+          "translation": "I am learning German."
+        },
+        {
+          "sentence": "Er wohnt in Berlin.",
+          "translation": "He lives in Berlin."
+        },
+        {
+          "sentence": "Wir haben Zeit.",
+          "translation": "We have time."
+        }
+      ],
+      "notes": [
+        "Sie (capital S) = you (formal). sie (lowercase) = she or they."
+      ]
+    },
+    {
+      "title": "Personalpronomen (Akkusativ)",
+      "category": "Pronomen",
+      "explanation": "Personal pronouns in the accusative case (direct object).",
+      "usage": "mich (me), dich (you), ihn (him), sie (her), es (it), uns (us), euch (you pl.), Sie (you formal), sie (them).",
+      "examples": [
+        {
+          "sentence": "Sie sieht mich.",
+          "translation": "She sees me."
+        },
+        {
+          "sentence": "Ich kenne ihn.",
+          "translation": "I know him."
+        },
+        {
+          "sentence": "Er liebt sie.",
+          "translation": "He loves her."
+        }
+      ],
+      "notes": [
+        "Only masculine changes: er → ihn."
+      ]
+    },
+    {
+      "title": "Personalpronomen (Dativ)",
+      "category": "Pronomen",
+      "explanation": "Personal pronouns in the dative case (indirect object: to/for someone).",
+      "usage": "mir (to me), dir (to you), ihm (to him), ihr (to her), ihm (to it), uns (to us), euch (to you pl.), Ihnen (to you formal), ihnen (to them).",
+      "examples": [
+        {
+          "sentence": "Der Lehrer hilft mir.",
+          "translation": "The teacher helps me."
+        },
+        {
+          "sentence": "Ich gebe dir das Buch.",
+          "translation": "I give you the book."
+        },
+        {
+          "sentence": "Kannst du ihm bitte helfen?",
+          "translation": "Can you please help him?"
+        }
+      ],
+      "notes": [
+        "Dative pronouns answer 'Wem?' (to whom?)."
+      ]
+    },
+    {
+      "title": "W-Questions (Wer, Wie, Wo, Was, Wann)",
+      "category": "Questions",
+      "explanation": "Question words (W-Fragen) ask for specific information. The verb is in position 2.",
+      "usage": "Question word + conjugated verb + subject + rest.",
+      "examples": [
+        {
+          "sentence": "Wie heißt du?",
+          "translation": "What is your name?"
+        },
+        {
+          "sentence": "Wo wohnst du?",
+          "translation": "Where do you live?"
+        },
+        {
+          "sentence": "Wann kommst du?",
+          "translation": "When are you coming?"
+        }
+      ],
+      "notes": [
+        "Wer (who) asks for the subject.",
+        "Wen (whom) asks for the accusative object.",
+        "Wem (to whom) asks for the dative object."
+      ]
+    },
+    {
+      "title": "W-Fragen",
+      "category": "Questions",
+      "explanation": "All question words starting with W- in German.",
+      "usage": "Used to ask for specific information.",
+      "examples": [
+        {
+          "sentence": "Wie heißen Sie?",
+          "translation": "What is your name?"
+        },
+        {
+          "sentence": "Was liest du?",
+          "translation": "What are you reading?"
+        },
+        {
+          "sentence": "Um wie viel Uhr kommen Sie?",
+          "translation": "At what time are you coming?"
+        }
+      ],
+      "notes": [
+        "Common W-words: wer, wie, wo, was, wann, warum, wohin, woher."
+      ]
+    },
+    {
+      "title": "Wer, Wen, Was, Wohin",
+      "category": "Questions",
+      "explanation": "Specific question words for different cases and situations.",
+      "usage": "Wer (nominative - who), Wen (accusative - whom), Was (what - for things), Wohin (where to - direction).",
+      "examples": [
+        {
+          "sentence": "Wer ist das?",
+          "translation": "Who is that?"
+        },
+        {
+          "sentence": "Wen siehst du?",
+          "translation": "Whom do you see?"
+        },
+        {
+          "sentence": "Was machst du?",
+          "translation": "What are you doing?"
+        },
+        {
+          "sentence": "Wohin gehst du?",
+          "translation": "Where are you going?"
+        }
+      ],
+      "notes": [
+        "Wohin asks for direction (movement), Wo asks for location."
+      ]
+    },
+    {
+      "title": "Wo – Woher – Wohin",
+      "category": "Questions",
+      "explanation": "Three important question words for place and direction.",
+      "usage": "Wo (where - location), Woher (from where - origin), Wohin (where to - destination).",
+      "examples": [
+        {
+          "sentence": "Wo wohnst du?",
+          "translation": "Where do you live?"
+        },
+        {
+          "sentence": "Woher kommst du?",
+          "translation": "Where do you come from?"
+        },
+        {
+          "sentence": "Wohin fährst du?",
+          "translation": "Where are you going?"
+        }
+      ],
+      "notes": [
+        "Wo answers with location (Dativ).",
+        "Woher answers with origin (aus/von + Dativ).",
+        "Wohin answers with destination (Akkusativ)."
+      ]
+    },
+    {
+      "title": "Time Questions",
+      "category": "Questions",
+      "explanation": "Questions about time: Wie lange? (How long?), Wann? (When?), Um wie viel Uhr? (At what time?).",
+      "usage": "Use these to ask about time duration or specific points in time.",
+      "examples": [
+        {
+          "sentence": "Wie lange haben Sie Pause?",
+          "translation": "How long is your break?"
+        },
+        {
+          "sentence": "Wann hast du Feierabend?",
+          "translation": "When do you finish work?"
+        },
+        {
+          "sentence": "Um wie viel Uhr kommst du?",
+          "translation": "At what time are you coming?"
+        }
+      ],
+      "notes": [
+        "Um is used for specific clock times."
+      ]
+    },
+    {
+      "title": "Trennbare Verben",
+      "category": "Separable verbs",
+      "explanation": "Separable verbs have a prefix that separates and goes to the end of the sentence in main clauses.",
+      "usage": "The prefix is separated and placed at the end in present tense and imperative.",
+      "examples": [
+        {
+          "sentence": "Ich mache das Licht an.",
+          "translation": "I'm switching the light on."
+        },
+        {
+          "sentence": "Mach bitte die Tür zu.",
+          "translation": "Please close the door."
+        },
+        {
+          "sentence": "Wann stehst du auf?",
+          "translation": "When do you get up?"
+        }
+      ],
+      "notes": [
+        "Common prefixes: an-, auf-, zu-, mit-, aus-, ein-."
+      ]
+    },
+    {
+      "title": "Uhrzeit",
+      "category": "Time & dates",
+      "explanation": "Telling time in German. There are two main ways: official (24-hour) and informal.",
+      "usage": "Official: Es ist vierzehn Uhr. (2:00 PM). Informal: Es ist zwei. (2:00) or Viertel nach zwei (2:15), halb drei (2:30).",
+      "examples": [
+        {
+          "sentence": "Es ist acht Uhr.",
+          "translation": "It is 8 o'clock."
+        },
+        {
+          "sentence": "Es ist Viertel nach sieben.",
+          "translation": "It is quarter past seven."
+        },
+        {
+          "sentence": "Es ist halb zehn.",
+          "translation": "It is half past nine."
+        }
+      ],
+      "notes": [
+        "halb zehn = half past nine (literally 'half to ten').",
+        "Use 'um' for at a specific time: um acht Uhr."
+      ]
+    },
+    {
+      "title": "Präteritum von sein und haben",
+      "category": "Time & dates",
+      "explanation": "Simple past tense (Präteritum) of the most common verbs: sein (to be) and haben (to have).",
+      "usage": "Used mainly in written German and for these two verbs also in spoken German.",
+      "examples": [
+        {
+          "sentence": "Ich war gestern krank.",
+          "translation": "I was sick yesterday."
+        },
+        {
+          "sentence": "Wir hatten viel Zeit.",
+          "translation": "We had a lot of time."
+        }
+      ],
+      "notes": [
+        "sein: ich war, du warst, er war, wir waren, ihr wart, sie waren.",
+        "haben: ich hatte, du hattest, er hatte, wir hatten, ihr hattet, sie hatten."
+      ]
+    },
+    {
+      "title": "Datum",
+      "category": "Time & dates",
+      "explanation": "Expressing dates in German. Days are masculine (der) and ordinal numbers are used.",
+      "usage": "Heute ist der 1. März. (Today is March 1st). Am 3. April (on April 3rd).",
+      "examples": [
+        {
+          "sentence": "der 2. Februar",
+          "translation": "the 2nd of February"
+        },
+        {
+          "sentence": "am 3. April",
+          "translation": "on 3 April"
+        },
+        {
+          "sentence": "vom 3. April bis zum 4. Mai",
+          "translation": "from 3 April to 4 May"
+        }
+      ],
+      "notes": [
+        "Ordinal numbers add -te (der zweite) up to 19, then -ste (der zwanzigste).",
+        "The month names are: Januar, Februar, März, April, Mai, Juni, Juli, August, September, Oktober, November, Dezember."
+      ]
+    },
+    {
+      "title": "Minuten nach / vor",
+      "category": "Time & dates",
+      "explanation": "Telling time with minutes past (nach) and minutes to (vor) the hour.",
+      "usage": "nach (past): 5 Minuten nach 3 (3:05). vor (to): 10 Minuten vor 4 (3:50).",
+      "examples": [
+        {
+          "sentence": "18 Minuten nach fünf",
+          "translation": "18 minutes past five"
+        },
+        {
+          "sentence": "4 Minuten vor zwölf",
+          "translation": "4 minutes to twelve"
+        },
+        {
+          "sentence": "Viertel nach sieben",
+          "translation": "quarter past seven"
+        }
+      ],
+      "notes": [
+        "Viertel = 15 minutes, halb = 30 minutes."
+      ]
+    },
+    {
+      "title": "kennen vs wissen",
+      "category": "Verbs",
+      "explanation": "Both mean 'to know' but are used differently.",
+      "usage": "kennen is used for people, places, things (familiarity). wissen is used for facts, information (knowledge).",
+      "examples": [
+        {
+          "sentence": "Ich kenne die Stadt.",
+          "translation": "I know the city (am familiar with it)."
+        },
+        {
+          "sentence": "Ich weiß es nicht.",
+          "translation": "I don't know (the fact)."
+        },
+        {
+          "sentence": "Kennst du meinen Bruder?",
+          "translation": "Do you know my brother?"
+        }
+      ],
+      "notes": [
+        "wissen is often followed by a clause (Ich weiß, dass...).",
+        "kennen is followed by a noun (Ich kenne den Mann)."
+      ]
+    },
+    {
+      "title": "Höfliche Aufforderung",
+      "category": "Verbs",
+      "explanation": "Polite requests using the imperative form with 'Sie' or adding 'bitte'.",
+      "usage": "For Sie: verb + Sie + bitte + rest. For du: verb (stem) + bitte + rest.",
+      "examples": [
+        {
+          "sentence": "Kommen Sie bitte um zehn Uhr.",
+          "translation": "Please come at ten o'clock."
+        },
+        {
+          "sentence": "Bring bitte Brot mit.",
+          "translation": "Please bring bread."
+        },
+        {
+          "sentence": "Bitte setzen Sie sich.",
+          "translation": "Please sit down."
+        }
+      ],
+      "notes": [
+        "The word 'bitte' makes requests polite."
+      ]
+    },
+    {
+      "title": "Reise- und Tourismusverben",
+      "category": "Verbs",
+      "explanation": "Important verbs for travel and tourism situations.",
+      "usage": "buchen (to book), reisen (to travel), anreisen (to arrive), abfliegen (to depart by plane), übernachten (to stay overnight).",
+      "examples": [
+        {
+          "sentence": "Ich möchte ein Hotel buchen.",
+          "translation": "I would like to book a hotel."
+        },
+        {
+          "sentence": "Wann fliegen Sie ab?",
+          "translation": "When do you depart?"
+        },
+        {
+          "sentence": "Wir übernachten in einem Gasthof.",
+          "translation": "We're staying overnight at an inn."
+        }
+      ],
+      "notes": [
+        "Many travel verbs are separable (abfliegen, anreisen)."
+      ]
+    },
+    {
+      "title": "Präsens und Perfekt",
+      "category": "Verbs",
+      "explanation": "Comparison between present tense (Präsens) and perfect tense (Perfekt).",
+      "usage": "Präsens for current actions or future. Perfekt for past events in spoken German.",
+      "examples": [
+        {
+          "sentence": "Ich lerne Deutsch. (Präsens)",
+          "translation": "I am learning German."
+        },
+        {
+          "sentence": "Ich habe Deutsch gelernt. (Perfekt)",
+          "translation": "I learned German."
+        }
+      ],
+      "notes": [
+        "Perfekt = conjugated haben/sein + Partizip II."
+      ]
+    },
+    {
+      "title": "Wetterverben",
+      "category": "Verbs",
+      "explanation": "Verbs used to describe weather conditions.",
+      "usage": "These are usually used with the impersonal subject 'es'.",
+      "examples": [
+        {
+          "sentence": "Es regnet.",
+          "translation": "It is raining."
+        },
+        {
+          "sentence": "Es schneit.",
+          "translation": "It is snowing."
+        },
+        {
+          "sentence": "Die Sonne scheint.",
+          "translation": "The sun is shining."
+        }
+      ],
+      "notes": [
+        "Other weather expressions: Es ist kalt/warm/sonnig/bewölkt."
+      ]
+    },
+    {
+      "title": "Dativ-Verben",
+      "category": "Verbs",
+      "explanation": "Verbs that require the dative case for their object.",
+      "usage": "These verbs are followed by a noun or pronoun in dative. There is no accusative object.",
+      "examples": [
+        {
+          "sentence": "Es gefällt ihm.",
+          "translation": "He likes it. (It pleases him.)"
+        },
+        {
+          "sentence": "Er gratuliert ihr.",
+          "translation": "He congratulates her."
+        },
+        {
+          "sentence": "Ich danke dir.",
+          "translation": "I thank you."
+        }
+      ],
+      "notes": [
+        "Common dative verbs: helfen, danken, gefallen, gratulieren, gehören, passieren."
+      ]
+    }
+  ]
+}
