@@ -7335,6 +7335,34 @@
       "category": "Modal verbs"
     },
     {
+      "title": "Alle Modalverben: Konjugation Präsens",
+      "explanation": "All six German modal verbs in the present tense (Präsens), conjugated for every person: ich, du, er/sie/es, wir, ihr, Sie (formal you) and sie (they). The modal verb is in position 2; the main verb stays in the infinitive at the end.",
+      "structure": "Subject (ich, du, er, sie, es, wir, ihr, Sie/sie) + conjugated modal verb + (objects) + infinitive at the end.",
+      "examples": [
+        { "sentence": "Ich darf hier rauchen.", "translation": "I am allowed to smoke here." },
+        { "sentence": "Du kannst gut singen.", "translation": "You can sing well." },
+        { "sentence": "Er mag Kaffee.", "translation": "He likes coffee." },
+        { "sentence": "Sie muss heute arbeiten.", "translation": "She has to work today." },
+        { "sentence": "Es soll morgen regnen.", "translation": "It is supposed to rain tomorrow." },
+        { "sentence": "Wir wollen ins Kino gehen.", "translation": "We want to go to the cinema." },
+        { "sentence": "Ihr dürft nicht laut sein.", "translation": "You (plural) are not allowed to be loud." },
+        { "sentence": "Möchten Sie etwas trinken?", "translation": "Would you (formal) like something to drink?" },
+        { "sentence": "Sie können uns helfen.", "translation": "They can help us. / You (formal) can help us." }
+      ],
+      "notes": [
+        "dürfen (may, be allowed to): ich darf, du darfst, er/sie/es darf, wir dürfen, ihr dürft, sie/Sie dürfen",
+        "können (can, be able to): ich kann, du kannst, er/sie/es kann, wir können, ihr könnt, sie/Sie können",
+        "mögen (to like): ich mag, du magst, er/sie/es mag, wir mögen, ihr mögt, sie/Sie mögen",
+        "müssen (must, have to): ich muss, du musst, er/sie/es muss, wir müssen, ihr müsst, sie/Sie müssen",
+        "sollen (should, be supposed to): ich soll, du sollst, er/sie/es soll, wir sollen, ihr sollt, sie/Sie sollen",
+        "wollen (to want to): ich will, du willst, er/sie/es will, wir wollen, ihr wollt, sie/Sie wollen",
+        "möchten (would like to; polite form from mögen): ich möchte, du möchtest, er/sie/es möchte, wir möchten, ihr möchtet, sie/Sie möchten",
+        "In 1st and 3rd person singular (ich, er/sie/es) the modal has no -e ending: ich kann, er soll.",
+        "Sie (capital S) = formal you; sie (lowercase) = she or they. Same conjugation: sie/Sie dürfen, können, etc."
+      ],
+      "category": "Modal verbs"
+    },
+    {
       "title": "Trennbare Verben",
       "explanation": "Separable verbs have a prefix that separates and goes to the end of the sentence in main clauses.",
       "structure": "The prefix is separated and placed at the end in present tense and imperative.",
