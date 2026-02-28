@@ -1,5 +1,6 @@
 import type { Metadata, Viewport } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
+import { PwaRegister } from "@/components/PwaRegister";
 import "./globals.css";
 
 const geistSans = Geist({
@@ -16,6 +17,7 @@ export const metadata: Metadata = {
   title: "German Learning App",
   description: "Learn German vocabulary and grammar by CEFR level (A1–C2).",
   other: { "google": "notranslate" },
+  manifest: "/manifest.webmanifest",
 };
 
 export const viewport: Viewport = {
@@ -24,6 +26,7 @@ export const viewport: Viewport = {
   maximumScale: 5,
   userScalable: true,
   viewportFit: "cover",
+  themeColor: "#0d9488",
 };
 
 export default function RootLayout({
@@ -36,6 +39,7 @@ export default function RootLayout({
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased min-h-screen`}
       >
+        <PwaRegister />
         {children}
       </body>
     </html>
